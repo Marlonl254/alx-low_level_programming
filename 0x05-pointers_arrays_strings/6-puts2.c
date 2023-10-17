@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts - prints even characters
+ * puts2 - prints even characters
  * @str: string to val
  * Return: void
  */
