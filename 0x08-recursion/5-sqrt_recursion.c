@@ -1,7 +1,7 @@
 #include "main.h"
 
 int main_func(int n, int i);
-/*
+/**
  * main_func - recurses to get the natural sqrt of a numm
  * @n: number to cal sqrt
  * @i: iterator
